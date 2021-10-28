@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I make my own sites/code on a Raspberry Pi and other stuff
+
 <!--
 **auyongcheemeng/auyongcheemeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
